@@ -49,7 +49,10 @@ button:hover{
 }
 @media (max-width:890px){
     h1{
-        font-size:5rem;
+        font-size:4rem;
+    }
+    .players{
+        font-size:1.2rem;
     }
  
     img{
